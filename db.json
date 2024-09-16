@@ -1,9 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "product": [
+    {
+      "id": "db68",
+      "name": "mela",
+      "completed": false
+    },
+    {
+      "id": "ab07",
+      "name": "banana",
+      "completed": true
+    },
+    {
+      "id": "0e4e",
+      "name": "insalata",
+      "completed": false
+    }
+  ]
 }
